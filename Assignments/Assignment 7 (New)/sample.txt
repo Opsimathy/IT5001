@@ -1,0 +1,588 @@
+Your enemy will be:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|        800|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         50
+
+Your current team:
+(Currently no member in the team now)
+
+You have 1200 gold currently
+Choices:
+1: Fighter (cost: 100)
+2: Mage (cost: 200)
+3: Berserker (cost: 200)
+4: ArchMage (cost: 600)
+5: Necromancer (cost: 400)
+Input a choice from 1 to 5:4
+
+Your current team:
+Members:   |   ArchMage
+Hitpoints: |        800
+Strength:  |           
+Max. Mana: |         50
+Current M: |         50
+
+You have 600 gold currently
+Choices:
+1: Fighter (cost: 100)
+2: Mage (cost: 200)
+3: Berserker (cost: 200)
+4: ArchMage (cost: 600)
+5: Necromancer (cost: 400)
+Input a choice from 1 to 5:5
+
+Your current team:
+Members:   |   ArchMage|Necromancer
+Hitpoints: |        800|        800
+Strength:  |           |           
+Max. Mana: |         50|         50
+Current M: |         50|         50
+
+You have 200 gold currently
+Choices:
+1: Fighter (cost: 100)
+2: Mage (cost: 200)
+3: Berserker (cost: 200)
+4: ArchMage (cost: 600)
+5: Necromancer (cost: 400)
+Input a choice from 1 to 5:2
+
+THE BATTLE STARTS!!!!!
+
+Round 1
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        800|        800
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         50|         50
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|        800|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         50
+
+Team A member 2 Mage acts
+Strike enemy 2 with spell
+Mage hurt with remaining hp 400.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        800|        800
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         50|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|        400|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         50
+
+Team B member 3 Fighter acts
+Hurt enemy 1 by damage 100.
+Necromancer hurt with remaining hp 700.
+
+Round 2
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        800
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         50|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|        400|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         50
+
+Team A member 1 Necromancer acts
+Strike enemy 2 with spell
+Mage died!
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        800
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         30|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         50
+
+Team B member 4 Mage acts
+Strike enemy 2 with spell
+Mage hurt with remaining hp 400.
+
+Round 3
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        400
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         30|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        800|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 1 Necromancer acts
+Strike enemy 0 with spell
+ArchMage hurt with remaining hp 400.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        400
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         10|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 3 Fighter acts
+Hurt enemy 2 by damage 100.
+Mage hurt with remaining hp 300.
+
+Round 4
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        300
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         10|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 1 Necromancer acts
+Mana recover to 40.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        300
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 3 Fighter acts
+Hurt enemy 2 by damage 100.
+Mage hurt with remaining hp 200.
+
+Round 5
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         30
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        800
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 2 Mage acts
+Strike enemy 4 with spell
+Mage hurt with remaining hp 400.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        800|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         10
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 1 Fighter acts
+Hurt enemy 0 by damage 100.
+ArchMage hurt with remaining hp 700.
+
+Round 6
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        700|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         10
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 2 Mage acts
+Mana recover to 40.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        700|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 3 Fighter acts
+Hurt enemy 0 by damage 100.
+ArchMage hurt with remaining hp 600.
+
+Round 7
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         50|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|       1200|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 0 ArchMage acts
+Strike enemy 1 with spell
+Fighter hurt with remaining hp 800.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        700|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        800|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 1 Fighter acts
+Hurt enemy 1 by damage 100.
+Necromancer hurt with remaining hp 600.
+
+Round 8
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        600|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        800|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team A member 0 ArchMage acts
+Strike enemy 1 with spell
+Fighter hurt with remaining hp 400.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        600|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         10|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         30
+
+Team B member 4 Mage acts
+Strike enemy 1 with spell
+Necromancer hurt with remaining hp 200.
+
+Round 9
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        200|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         10|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 0 ArchMage acts
+Mana recover to 40.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        600|        200|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         40|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 1 Fighter acts
+Hurt enemy 0 by damage 100.
+ArchMage hurt with remaining hp 500.
+
+Round 10
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        500|        200|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         40|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |        400|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 0 ArchMage acts
+Strike enemy 0 with spell
+ArchMage died!
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        500|        200|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         20|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 1 Fighter acts
+Hurt enemy 1 by damage 100.
+Necromancer hurt with remaining hp 100.
+
+Round 11
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        500|        100|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         20|         40|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|       1200|        400
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 1 Necromancer acts
+Strike enemy 4 with spell
+Mage died!
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        500|        100|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         20|         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|       1200|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 3 Fighter acts
+Hurt enemy 0 by damage 100.
+ArchMage hurt with remaining hp 400.
+
+Round 12
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         20|         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|       1200|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 0 ArchMage acts
+Strike enemy 3 with spell
+Fighter hurt with remaining hp 800.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|        200
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |           |         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        800|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 3 Fighter acts
+Hurt enemy 2 by damage 100.
+Mage hurt with remaining hp 100.
+
+Round 13
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|        100
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |           |         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        800|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 0 ArchMage acts
+Mana recover to 30.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|        100
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        800|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 3 Fighter acts
+Hurt enemy 2 by damage 100.
+Mage died!
+
+Round 14
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|          0
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|         20|         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        800|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 1 Necromancer acts
+Strike enemy 3 with spell
+Fighter hurt with remaining hp 400.
+
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|        100|          0
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|           |         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        400|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team B member 3 Fighter acts
+Hurt enemy 1 by damage 100.
+Necromancer died!
+
+Round 15
+Team A:
+Members:   |   ArchMage|Necromancer|       Mage
+Hitpoints: |        400|          0|          0
+Strength:  |           |           |           
+Max. Mana: |         50|         50|         50
+Current M: |         30|           |         40
+
+Team B:
+Members:   |   ArchMage|    Fighter|       Mage|    Fighter|       Mage
+Hitpoints: |          0|        400|          0|        400|          0
+Strength:  |           |        100|           |        100|           
+Max. Mana: |         50|           |         50|           |         50
+Current M: |         50|           |         50|           |         10
+
+Team A member 0 ArchMage acts
+Cast KABOOOOOOM ! (Damage 800) to every enemy!
+Fighter died!
+Fighter died!
+Frist team won!
+Congrats! You won!
